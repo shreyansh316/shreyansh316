@@ -75,12 +75,12 @@
 ### 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyansh316&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh316&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyansh316&show_icons=true&theme=tokyonight&description_color=7aa2f7&text_color=9ece6a&bg_color=1a1b26" alt="GitHub Stats" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh316&layout=compact&theme=tokyonight&langs_count=6&bg_color=1a1b26" alt="Top Languages" height="165px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh316&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="140px"/>
+  <img src="https://komarev.com/ghvc/?username=shreyansh316&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
