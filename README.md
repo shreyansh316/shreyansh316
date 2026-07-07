@@ -72,20 +72,13 @@
 
 ---
 
-### 📊 Engineering Metrics
+### 📊 Engineering Metrics & Activity
 
-<p align="center">
-  <a href="https://github.com/shreyansh316">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyansh316&theme=tokyonight" alt="GitHub Metrics" width="100%"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghvc/?username=shreyansh316&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-<div align="center">
-  <sub>Built with 💻, ☕, and absolute precision. Updated: 2026.</sub>
-</div>
+```text
+===================================================================
+[ METRICS LAB ]       COMMITS       CONTRIBUTIONS       RANK
+-------------------------------------------------------------------
+Active Repos          [★★★★★]       High Frequency      Top Tier
+Data Structures       [★★★★★]       LeetCode Optimized  Continuous
+Cloud Architecture    [★★★★☆]       AWS / GCP Native    Production
+===================================================================
