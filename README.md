@@ -75,8 +75,9 @@
 ### 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyansh316&show_icons=true&theme=tokyonight&description_color=7aa2f7&text_color=9ece6a&bg_color=1a1b26" alt="GitHub Stats" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh316&layout=compact&theme=tokyonight&langs_count=6&bg_color=1a1b26" alt="Top Languages" height="165px"/>
+  <a href="https://github.com/shreyansh316">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyansh316&theme=tokyonight" alt="GitHub Metrics" width="100%"/>
+  </a>
 </p>
 
 <p align="center">
