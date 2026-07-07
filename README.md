@@ -71,14 +71,19 @@
 *   🏢 **IBM:** Linux for AIX Systems Administrator
 
 ---
+### 📊 Engineering Metrics
 
-### 📊 Engineering Metrics & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyansh316&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh316&theme=tokyonight" alt="Streak Stats" height="165px"/>
+</p>
 
-```text
-===================================================================
-[ METRICS LAB ]       COMMITS       CONTRIBUTIONS       RANK
--------------------------------------------------------------------
-Active Repos          [★★★★★]       High Frequency      Top Tier
-Data Structures       [★★★★★]       LeetCode Optimized  Continuous
-Cloud Architecture    [★★★★☆]       AWS / GCP Native    Production
-===================================================================
+<p align="center">
+  <img src="https://komarev.com/ghvc/?username=shreyansh316&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+<div align="center">
+  <sub>Built with 💻, ☕, and absolute precision. Updated: 2026.</sub>
+</div>
