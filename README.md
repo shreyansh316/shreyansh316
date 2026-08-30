@@ -1,49 +1,65 @@
-# Shreyansh Choolet
+<div align="center">
 
-Distributed Systems | ML Infrastructure | Cloud Security
+<!-- Dynamic Terminal Typing Animation -->
+<a href="https://github.com/shreyansh316">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%3E_System.init();%3E_Hello,+I'm+Shreyansh+Choolet;%3E_Architecting+AWS+Cloud+Infrastructure;%3E_Training+PyTorch+ML+Models;%3E_Configuring+RHEL+%26+Ubuntu+Servers" alt="Typing Animation" />
+</a>
 
-Engineering robust backends and bridging the gap between low-level system execution and scalable machine learning pipelines. Focused on high-availability architecture and kernel-level observability.
+<p align="center">
+  Bridging low-level system administration with high-throughput machine learning environments.
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/shreyansh-choolet-20a228372/) ｜ [CodeChef](https://www.codechef.com/users/goofy_cape_08) ｜ [LeetCode](https://leetcode.com/u/shreyanshchoolet/)
+<!-- Sleek Uniform Logo Grid -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nextjs,tailwind,vite,pytorch,aws,nginx,ubuntu,linux,mysql,git,vscode,figma&theme=dark&perline=9" alt="Tech Stack Grid" />
+</a>
 
----
+<br><br>
 
-### ⚙️ Engineering Focus
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansh-choolet-20a228372/)
+[![CodeChef](https://img.shields.io/badge/CodeChef_2★-5B4D87?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/goofy_cape_08)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shreyanshchoolet/)
 
-Currently exploring the intersection of systems programming and AI deployment, specifically optimizing inference latency for NLP models and hardening Linux-based hosting environments. 
+</div>
 
-* **Active R&D:** Leveraging eBPF for network observability, building Kubernetes operators for custom stateful workloads, and implementing fine-grained RBAC in zero-trust environments.
-* **Core Stack:** C/C++, Python, Linux (RHEL/Ubuntu), AWS (EC2, S3, Route53), PyTorch, React.
+<br>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyansh316&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117" alt="GitHub Stats" width="60%" />
+</div>
 
-### 🏗️ Key Architecture & Systems
+<br>
 
-**ShikshaSetu AI (Smart India Hackathon 2025)**
-* **Architecture:** Microservices payload routing via FastAPI, backed by PostgreSQL, deployed on AWS ECS.
-* **System Design:** Engineered an NLP-driven search and analytics platform to parse complex policy documents. Optimized data retrieval and integrated OAuth2 security protocols for state management across 5,000+ concurrent sessions.
+### 🚀 Production & Prototypes
 
-**AlumNET (SIH 2025)**
-* **Architecture:** Event-driven Node.js backend utilizing MongoDB for persistence and Redis for session caching.
-* **System Design:** Built a centralized networking ecosystem with a custom mentor-matching algorithm. Designed for horizontal scalability and high read-throughput to support real-time collaboration dashboards.
+<!-- Video/GIF Demonstration Block -->
+<div align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/shreyansh316/your-repo-name/main/assets/win12-demo.gif" alt="Windows 12 Pro Web Prototype Demo" width="800" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0, 217, 255, 0.5);" />
+  </a>
+  <p><i>Interactive Windows 12 Pro web prototype featuring centered taskbar and simulated OS environment.</i></p>
+</div>
+
+<br>
+
+### ⚙️ Core Architecture & Deployments
+
+**BharatSetu & ShikshaSetu AI**
+> Engineered centralized directories and NLP-driven search platforms. Leveraged FastAPI for backend routing, deployed via AWS ECS, and managed state for heavy traffic spikes.
+
+**High-Availability Infrastructure**
+> Configured EC2 instances, S3 storage buckets, and Route 53 DNS. Managed MariaDB, Apache, and Nginx reverse proxies across Red Hat Enterprise Linux and Ubuntu, utilizing Cockpit and aaPanel dashboards.
 
 **SMS Expense Classifier**
-* **System Design:** Real-time stream processing pipeline utilizing machine learning for instantaneous transaction categorization. Built a lightweight frontend interface using Streamlit connected to a Python-based NLP classification engine.
+> Built an end-to-end Python ML pipeline using Streamlit and Scikit-learn for real-time transaction categorization.
 
----
+<br>
 
-### 🛡️ Infrastructure & Operations
-
-* **Server Administration:** Managed LEMP/LAMP stacks, configured Nginx/Apache reverse proxies, and maintained database integrity (MariaDB/MySQL) across production Linux environments via Cockpit and aaPanel.
-* **Cloud & Networking:** Automated AWS provisioning and managed DNS routing (Route 53) to ensure 99.9% uptime and optimal geographic latency for hosted applications.
-* **Security:** Conducted vulnerability assessments and network security hardening during specialized IT infrastructure deployments.
-
----
-
-### 📐 Engineering Philosophy
-
-> *"Optimize for observability, design for failure, and secure by default."*
-
-1. **State Management:** Keep systems stateless wherever possible. Push state to distributed, fault-tolerant datastores.
-2. **Infrastructure as Code:** Manual configuration is technical debt. Infrastructure must be version-controlled, auditable, and reproducible.
-3. **Observability:** If you cannot measure the bottleneck, you cannot fix it. Prioritize extensive metric aggregation and log parsing over blind scaling.
+<!-- Animated Git Snake (Advanced GitHub Feature) -->
+<div align="center">
+  <h3>Contributions Architecture</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyansh316/shreyansh316/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shreyansh316/shreyansh316/output/github-contribution-grid-snake.svg" width="800">
+  </picture>
+</div>
