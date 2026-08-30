@@ -1,37 +1,79 @@
+<div align="center">
+  <h1>Hi there, I'm Shreyansh Choolet 👋</h1>
+  <h3>Full-Stack Developer | Linux SysAdmin | Cloud Enthusiast</h3>
+  <p><i>B.Tech in Computer Science and Engineering @ Jaypee University of Engineering and Technology (2025–2029)</i></p>
+</div>
 
-  1  [|||||||||||||||||||||||||C/C++ 95.0%]   Tasks: 45, 5 thr; 3 running
-  2  [||||||||||||||||||||||Python/ML 85.2%]   Load average: 0.08 0.04 0.05
-  3  [||||||||||||||||||||AWS & Cloud 80.5%]   Uptime: 2025-2029 (B.Tech CSE @ JUET)
-  4  [||||||||||||||Linux/SysAdmin 90.0%]   Base: Jaipur, Rajasthan (IST)
-  Mem[||||||||||||||||||||||||3.2G/16.0G]   Role: Infrastructure & AI Engineer
-  Swp[|                         0K/2.0G]   Rank: 2-Star (CodeChef) | 2nd Place (Kodeathon)
+---
 
-  PID USER      PRI  NI  VIRT   RES   SHR S CPU% MEM%   TIME+  COMMAND
-    1 root       20   0  168M 12512  8500 S  0.0  0.1  0:05.12 /sbin/init --architecture=cloud-native
-  402 shreyansh  20   0  452M 85400  4200 R 85.0 12.0 45:12.84 ./shikshasetu_ai --nlp-parser --aws-ecs
-  415 shreyansh  20   0  310M 45100  3100 S 65.2  8.4 32:45.10 node /opt/alumNET/server.js --match-algorithm
-  501 shreyansh  20   0  254M 32100  2800 R 45.0  6.2 12:30.45 streamlit run sms_expense_classifier.py
-  605 shreyansh  20   0  112M 15000  1200 S  5.0  2.1  8:15.22 serve -s windows_12_interactive_prototype
-  899 shreyansh  39  19   54M  8500  1100 S  0.1  0.5  1:20.05 /usr/sbin/volleyball_league_scheduler --daemon
- 1024 shreyansh  39  19   12M  1024   500 S  0.0  0.1  0:45.10 /bin/bash manage_brass_lighting_inventory.sh
+### 👨‍💻 About Me
+- 🔭 Currently building **BharatSetu** and **ShikshaSetu AI**.
+- ☁️ Architecting infrastructure with AWS (EC2, S3, Route 53) and managing Linux servers (Ubuntu/RHEL).
+- 🏆 **SIH 2025 Participant**, **2nd Place Kodeathon**, and **2-Star Coder on CodeChef**.
+- ⚡ Fun fact: When I'm not configuring Nginx or MariaDB, I'm likely organizing local volleyball tournaments or prototyping UI in Figma.
 
----------------------------------------------------------------------------------------------------------
-[F1] Help  [F2] Setup  [F3] Search  [F4] Filter  [F5] Tree  [F6] SortBy  [F7] Nice -  [F8] Nice +  [F9] Kill  [F10] Quit
+### 🛠️ Tech Stack & Tools
 
-```
+**Languages & Core**
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-**ESTABLISHED NETWORK CONNECTIONS**
+**Frontend & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
-| PROTO | RECV-Q | SEND-Q | LOCAL ADDRESS | FOREIGN ADDRESS | STATE |
-| --- | --- | --- | --- | --- | --- |
-| tcp | 0 | 0 | 127.0.0.1:443 | [LinkedIn](https://www.linkedin.com/in/shreyansh-choolet-20a228372/) | ESTABLISHED |
-| tcp | 0 | 0 | 127.0.0.1:22 | [GitHub](https://github.com/shreyansh316) | ESTABLISHED |
-| tcp | 0 | 0 | 127.0.0.1:80 | [CodeChef](https://www.codechef.com/users/goofy_cape_08) | ESTABLISHED |
-| tcp | 0 | 0 | 127.0.0.1:8080 | [LeetCode](https://leetcode.com/u/shreyanshchoolet/) | ESTABLISHED |
+**Systems, Cloud & Data**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
 
-**SYSTEM LOGS (/var/log/syslog)**
+### 🚀 Featured Projects
 
-* **Oct 2025:** Initialized `ShikshaSetu AI` for Smart India Hackathon.
-* **Jul 2026:** Completed Cybersecurity & IT Infrastructure industrial training at RCAT.
-* **Jul 2026:** Executed Linux System Administration internship via Global IT Providers.
-* **Nov 2025:** Deployed satellite-based pollution monitoring application (2nd Place, Vibe Coding).
+<details>
+<summary><b>ShikshaSetu AI & BharatSetu</b> (Government/Welfare Tech)</summary>
+<br>
+Developed an AI-powered search and analytics platform to simplify Ministry of Education policy documents (SIH 2025). Engineered BharatSetu as a centralized digital directory with AI guidance for 50+ government welfare schemes.
+</details>
+
+<details>
+<summary><b>AlumNET</b> (Full-Stack Networking Platform)</summary>
+<br>
+Built a digital platform for centralized alumni data management, mentorship matching, and career networking (SIH 2025).
+</details>
+
+<details>
+<summary><b>SMS Expense Classifier & Environmental Monitor</b> (ML & IoT)</summary>
+<br>
+Created a Streamlit app using NLP to categorize transaction messages in real time. Secured 2nd Place in a Vibe Coding event for developing a satellite-based air quality monitoring application.
+</details>
+
+<details>
+<summary><b>Windows 12 Pro Web Prototype</b> (UI/UX Engineering)</summary>
+<br>
+Engineered an interactive web-based operating system prototype featuring a functional desktop interface, centered taskbar, and simulated system settings.
+</details>
+
+### 💼 Experience & Achievements
+- **Linux System Administration Intern** @ Global IT Providers | *Managed server infrastructure, LAMP/LEMP stacks, and database hosting.*
+- **Cybersecurity & IT Trainee** @ R-CAT | *Conducted network security analysis and vulnerability assessments.*
+- **Competitive Programming** | *2nd Place Kodeathon (C/C++ DSA).*
+
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true" alt="GitHub Streak" />
+</div>
