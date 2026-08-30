@@ -1,54 +1,49 @@
-# Hi, I'm Shreyansh Choolet 👋
+# Shreyansh Choolet
 
-**Cloud Infrastructure Engineer | AI Systems | Security Advocate**
+Distributed Systems | ML Infrastructure | Cloud Security
 
-I am a backend and infrastructure engineer based in Jaipur, India. I specialize in bridging the gap between low-level system architecture and high-level machine learning pipelines. My focus is on building scalable, highly available, and secure production environments.
+Engineering robust backends and bridging the gap between low-level system execution and scalable machine learning pipelines. Focused on high-availability architecture and kernel-level observability.
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/shreyansh-choolet-20a228372/) • [LeetCode](https://leetcode.com/u/shreyanshchoolet/) • [CodeChef](https://www.codechef.com/users/goofy_cape_08)
-
----
-
-### 💻 What I'm Working On
-
-* 🔨 **Building:** Kubernetes operators for custom workloads and an ML Ops platform for production ML systems.
-* 📖 **Learning:** Advanced system design patterns, eBPF for kernel-level observability, and Rust for systems programming.
-* 🤝 **Open to:** Collaborating on open-source DevOps tooling and distributed AI platforms.
+[LinkedIn](https://www.linkedin.com/in/shreyansh-choolet-20a228372/) ｜ [CodeChef](https://www.codechef.com/users/goofy_cape_08) ｜ [LeetCode](https://leetcode.com/u/shreyanshchoolet/)
 
 ---
 
-### 🛠️ Core Engineering Stack
+### ⚙️ Engineering Focus
 
-* **Languages:** C++, Python, Go, Bash, SQL
-* **Infrastructure & Cloud:** AWS (EC2, S3, IAM, VPC), GCP, Terraform, Linux Administration
-* **DevOps & Containers:** Docker, Kubernetes, GitHub Actions, Prometheus, Grafana
-* **Data & AI:** PostgreSQL, Redis, InfluxDB, PyTorch, TensorFlow, FastAPI
+Currently exploring the intersection of systems programming and AI deployment, specifically optimizing inference latency for NLP models and hardening Linux-based hosting environments. 
 
----
-
-### 🚀 Featured Engineering Projects
-
-#### [ShikshaSetu AI](https://github.com/shreyansh316)
-An AI-powered education platform utilizing NLP-driven adaptive learning.
-* **Architecture:** Microservices orchestrated on Kubernetes (AWS ECS).
-* **Tech:** Python, TensorFlow, FastAPI, React, PostgreSQL.
-* *Impact: Successfully onboarded 5,000+ users with enterprise-grade OAuth2 security.*
-
-#### [SecureOps Dashboard](https://github.com/shreyansh316)
-A comprehensive infrastructure monitoring and security alerting suite.
-* **Architecture:** Aggregated metrics and log pipelines using ELK and InfluxDB.
-* **Tech:** Python, Prometheus, Grafana, ELK Stack.
-* *Impact: Automated threat detection and reduced incident response time by 70%.*
-
-#### [DevOps Automation Suite](https://github.com/shreyansh316)
-An Infrastructure-as-Code (IaC) framework for rapid, secure deployments.
-* **Architecture:** Modular multi-cloud provisioning with automated compliance checks.
-* **Tech:** Terraform, Ansible, Kubernetes, GitHub Actions.
-* *Impact: Reduced provisioning time by 80% across 50+ automated deployments.*
+* **Active R&D:** Leveraging eBPF for network observability, building Kubernetes operators for custom stateful workloads, and implementing fine-grained RBAC in zero-trust environments.
+* **Core Stack:** C/C++, Python, Linux (RHEL/Ubuntu), AWS (EC2, S3, Route53), PyTorch, React.
 
 ---
 
-### 📊 GitHub Activity
+### 🏗️ Key Architecture & Systems
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyansh316&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Shreyansh's GitHub Stats" />
-</div>
+**ShikshaSetu AI (Smart India Hackathon 2025)**
+* **Architecture:** Microservices payload routing via FastAPI, backed by PostgreSQL, deployed on AWS ECS.
+* **System Design:** Engineered an NLP-driven search and analytics platform to parse complex policy documents. Optimized data retrieval and integrated OAuth2 security protocols for state management across 5,000+ concurrent sessions.
+
+**AlumNET (SIH 2025)**
+* **Architecture:** Event-driven Node.js backend utilizing MongoDB for persistence and Redis for session caching.
+* **System Design:** Built a centralized networking ecosystem with a custom mentor-matching algorithm. Designed for horizontal scalability and high read-throughput to support real-time collaboration dashboards.
+
+**SMS Expense Classifier**
+* **System Design:** Real-time stream processing pipeline utilizing machine learning for instantaneous transaction categorization. Built a lightweight frontend interface using Streamlit connected to a Python-based NLP classification engine.
+
+---
+
+### 🛡️ Infrastructure & Operations
+
+* **Server Administration:** Managed LEMP/LAMP stacks, configured Nginx/Apache reverse proxies, and maintained database integrity (MariaDB/MySQL) across production Linux environments via Cockpit and aaPanel.
+* **Cloud & Networking:** Automated AWS provisioning and managed DNS routing (Route 53) to ensure 99.9% uptime and optimal geographic latency for hosted applications.
+* **Security:** Conducted vulnerability assessments and network security hardening during specialized IT infrastructure deployments.
+
+---
+
+### 📐 Engineering Philosophy
+
+> *"Optimize for observability, design for failure, and secure by default."*
+
+1. **State Management:** Keep systems stateless wherever possible. Push state to distributed, fault-tolerant datastores.
+2. **Infrastructure as Code:** Manual configuration is technical debt. Infrastructure must be version-controlled, auditable, and reproducible.
+3. **Observability:** If you cannot measure the bottleneck, you cannot fix it. Prioritize extensive metric aggregation and log parsing over blind scaling.
