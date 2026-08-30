@@ -1,31 +1,4 @@
-name: Generate Snake Animation
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch: # allows manual triggering
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: shreyansh316
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<div align="center">
+  <h3>Contributions Architecture</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyansh316&theme=tokyo-night&hide_border=true&area=true&point=00D9FF&line=00D9FF&color=00D9FF" alt="GitHub Contribution Graph" width="800">
+</div>
