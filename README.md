@@ -51,6 +51,8 @@ I build scalable web applications, explore system architecture, and I'm a little
 
 ---
 
+---
+
 <div align="center">
 
 ## signals 
@@ -59,17 +61,17 @@ I build scalable web applications, explore system architecture, and I'm a little
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<!-- Replaced static local asset with dynamic GitHub Streak Stats matching the dark/purple aesthetic -->
+<!-- GitHub Streak Stats -->
 <picture>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanshchoolet&theme=radical&hide_border=true&background=0D1117&ring=AA9BEF&fire=AA9BEF&currStreakNum=ffffff" width="400" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=AA9BEF&fire=AA9BEF&currStreakNum=ffffff" width="400" alt="GitHub Streak">
 </picture>
 
 </td>
 <td width="50%" align="center" valign="middle">
 
-<!-- Replaced static local asset with dynamic Top Langs matching the dark/purple aesthetic -->
+<!-- Top Langs -->
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshchoolet&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=AA9BEF&icon_color=AA9BEF" width="400" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=AA9BEF&icon_color=AA9BEF" width="400" alt="Top Languages">
 </picture>
 
 </td>
@@ -84,19 +86,11 @@ I build scalable web applications, explore system architecture, and I'm a little
 
 ## Numbers matter? ohhh yes. 
 
-<!-- Replaced static local asset with dynamic GitHub Stats -->
+<!-- GitHub Stats -->
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyanshchoolet&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=AA9BEF&icon_color=AA9BEF" width="480" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=AA9BEF&icon_color=AA9BEF" width="480" alt="GitHub statistics">
 </picture>
 
 <br>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>` Built with love · @shreyanshchoolet `</sub>
 
 </div>
